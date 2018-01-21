@@ -4,7 +4,7 @@ import './App.css';
 import ComponentName from './ComponentName'
 
 class App extends Component {
-  // App is a child class (of Component) that inherits props and methods from Component
+  // App is a child class (of Component) that inherits properties and methods from Component
   constructor(props) {
     super(props)
     // the super method calls the constructor of the parent class (here, Component)
